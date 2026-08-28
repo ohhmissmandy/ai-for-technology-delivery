@@ -1,25 +1,25 @@
-0
+# AI for Technology Delivery
 
-## About the examples
+Practical AI prompts for technology delivery, from messy intake through launch, adoption, and operational ownership.
 
-A few prompts include short fictional examples to show how the prompt can be used.
+I built this collection around the parts of technology work where simply generating a checklist is not enough. The prompts are meant to help organize incomplete information, challenge assumptions, find gaps, pressure-test plans, and improve the questions people ask before making a decision.
 
-The examples are intentionally generic. They are not descriptions of a specific employer, customer, vendor, or internal project.
+They are not meant to replace the person accountable for the work.
 
-## Related
+The collection covers planning, requirements, UAT, risk, deployment, training, adoption, operational readiness, executive communication, process improvement, and responsible AI.
 
-For more on AI decision rights, human oversight, and responsible adoption, see [Responsible AI Adoption](https://github.com/ohhmissmandy/responsible-ai-adoption).
+## What are you trying to solve?
 
----
-
-Repository description:
-
-**Practical AI prompts for technology delivery, from messy intake through launch, adoption, and operational ownership.**
-
-Suggested topics:
-
-`technology-delivery` `project-management` `technology-implementation` `ai-prompts` `uat` `change-management` `responsible-ai` `process-improvement`
-
+| If you're dealing with...                       | Start here                                                                                                     |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| I have an idea but not a plan                   | [Turn a Messy Idea Into a Real Plan](getting-started/01-turn-a-messy-idea-into-a-real-plan.md)                 |
+| Something feels incomplete                      | [What Are We Missing?](getting-started/02-what-are-we-missing.md)                                              |
+| I inherited a technology I don't understand yet | [Learn Enough to Lead the Implementation](getting-started/03-learn-enough-to-lead-the-implementation.md)       |
+| The intake is all over the place                | [Make Sense of a Messy Intake](getting-started/04-make-sense-of-a-messy-intake.md)                             |
+| The timeline feels suspicious                   | [Can This Timeline Actually Work?](planning-and-decisions/06-can-this-timeline-actually-work.md)               |
+| Ownership is fuzzy                              | [Who Owns What?](planning-and-decisions/08-who-owns-what.md)                                                   |
+| I need a useful risk review                     | [What Could Knock This Off Track?](planning-and-decisions/09-what-could-knock-this-off-track.md)               |
+| I want to catch trouble earlier                 | [What Would We See Before It Goes Wrong?](planning-and-decisions/10-what-would-we-see-before-it-goes-wrong.md) |
 | The project is slipping                           | [This Project Is Going Sideways. Now What?](planning-and-decisions/12-this-project-is-going-sideways-now-what.md)                                 |
 | We need to make a meaningful decision             | [Does This Decision Actually Hold Up?](planning-and-decisions/13-does-this-decision-actually-hold-up.md)                                          |
 | The requirements look questionable                | [Find the Holes in These Requirements](requirements-and-uat/15-find-the-holes-in-these-requirements.md)                                           |
@@ -150,9 +150,6 @@ Evaluate AI-enabled workflows based on consequence, reversibility, judgment, acc
 24. [What Happens If Launch Goes Bad?](launch-and-operations/24-what-happens-if-launch-goes-bad.md)
 25. [Plan the First Few Weeks After Go-Live](launch-and-operations/25-plan-the-first-few-weeks-after-go-live.md)
 26. [What Does This Pilot Need to Prove?](launch-and-operations/26-what-does-this-pilot-need-to-prove.md)
-
-<!-- -->
-
 32. [Can Operations Own This After We Leave?](launch-and-operations/32-can-operations-own-this-after-we-leave.md)
 
 ### Training and Adoption
@@ -184,14 +181,4 @@ The examples are intentionally generic. They are not descriptions of a specific 
 ## Related
 
 For more on AI decision rights, human oversight, and responsible adoption, see [Responsible AI Adoption](https://github.com/ohhmissmandy/responsible-ai-adoption).
-
----
-
-Repository description:
-
-**Practical AI prompts for technology delivery, from messy intake through launch, adoption, and operational ownership.**
-
-Suggested topics:
-
-`technology-delivery` `project-management` `technology-implementation` `ai-prompts` `uat` `change-management` `responsible-ai` `process-improvement`
 
