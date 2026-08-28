@@ -20,8 +20,6 @@ Suggested topics:
 
 `technology-delivery` `project-management` `technology-implementation` `ai-prompts` `uat` `change-management` `responsible-ai` `process-improvement`
 
-| If you're dealing with...                         | Start here                                                                                                                                        |
-| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | The project is slipping                           | [This Project Is Going Sideways. Now What?](planning-and-decisions/12-this-project-is-going-sideways-now-what.md)                                 |
 | We need to make a meaningful decision             | [Does This Decision Actually Hold Up?](planning-and-decisions/13-does-this-decision-actually-hold-up.md)                                          |
 | The requirements look questionable                | [Find the Holes in These Requirements](requirements-and-uat/15-find-the-holes-in-these-requirements.md)                                           |
@@ -152,6 +150,9 @@ Evaluate AI-enabled workflows based on consequence, reversibility, judgment, acc
 24. [What Happens If Launch Goes Bad?](launch-and-operations/24-what-happens-if-launch-goes-bad.md)
 25. [Plan the First Few Weeks After Go-Live](launch-and-operations/25-plan-the-first-few-weeks-after-go-live.md)
 26. [What Does This Pilot Need to Prove?](launch-and-operations/26-what-does-this-pilot-need-to-prove.md)
+
+<!-- -->
+
 32. [Can Operations Own This After We Leave?](launch-and-operations/32-can-operations-own-this-after-we-leave.md)
 
 ### Training and Adoption
