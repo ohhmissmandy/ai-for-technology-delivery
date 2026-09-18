@@ -10,30 +10,30 @@ The collection covers planning, requirements, UAT, risk, deployment, training, a
 
 ## What are you trying to solve?
 
-| If you're dealing with...                       | Start here                                                                                                     |
+| If you're dealing with... | Start here |
 | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| I have an idea but not a plan                   | [Turn a Messy Idea Into a Real Plan](getting-started/01-turn-a-messy-idea-into-a-real-plan.md)                 |
-| Something feels incomplete                      | [What Are We Missing?](getting-started/02-what-are-we-missing.md)                                              |
-| I inherited a technology I don't understand yet | [Learn Enough to Lead the Implementation](getting-started/03-learn-enough-to-lead-the-implementation.md)       |
-| The intake is all over the place                | [Make Sense of a Messy Intake](getting-started/04-make-sense-of-a-messy-intake.md)                             |
-| The timeline feels suspicious                   | [Can This Timeline Actually Work?](planning-and-decisions/06-can-this-timeline-actually-work.md)               |
-| Ownership is fuzzy                              | [Who Owns What?](planning-and-decisions/08-who-owns-what.md)                                                   |
-| I need a useful risk review                     | [What Could Knock This Off Track?](planning-and-decisions/09-what-could-knock-this-off-track.md)               |
-| I want to catch trouble earlier                 | [What Would We See Before It Goes Wrong?](planning-and-decisions/10-what-would-we-see-before-it-goes-wrong.md) |
-| The project is slipping                           | [This Project Is Going Sideways. Now What?](planning-and-decisions/12-this-project-is-going-sideways-now-what.md)                                 |
-| We need to make a meaningful decision             | [Does This Decision Actually Hold Up?](planning-and-decisions/13-does-this-decision-actually-hold-up.md)                                          |
-| The requirements look questionable                | [Find the Holes in These Requirements](requirements-and-uat/15-find-the-holes-in-these-requirements.md)                                           |
-| We need realistic UAT                             | [Build UAT That Tests Real Life](requirements-and-uat/17-build-uat-that-tests-real-life.md)                                                       |
-| Test feedback is turning into a giant defect list | [Is This a Bug, a Training Problem, or Something Else?](requirements-and-uat/20-is-this-a-bug-a-training-problem-or-something-else.md)            |
-| We're close to launch                             | [Are We Actually Ready to Launch?](launch-and-operations/22-are-we-actually-ready-to-launch.md)                                                   |
-| Launch could go badly                             | [What Happens If Launch Goes Bad?](launch-and-operations/24-what-happens-if-launch-goes-bad.md)                                                   |
-| We need a pilot that proves something             | [What Does This Pilot Need to Prove?](launch-and-operations/26-what-does-this-pilot-need-to-prove.md)                                             |
-| Users are struggling                              | [Is This Really a Training Problem?](training-and-adoption/30-is-this-really-a-training-problem.md)                                               |
-| Adoption isn't happening                          | [Why Aren't People Using This the Way We Expected?](training-and-adoption/31-why-arent-people-using-this-the-way-we-expected.md)                  |
-| We're trying to hand this over to operations      | [Can Operations Own This After We Leave?](launch-and-operations/32-can-operations-own-this-after-we-leave.md)                                     |
-| Leadership needs an update                        | [Tell Leadership What They Actually Need to Know](leadership-and-communication/33-tell-leadership-what-they-actually-need-to-know.md)             |
-| AI is being added to a workflow                   | [Where Does a Human Still Need to Be Involved?](responsible-ai/34-where-does-a-human-still-need-to-be-involved.md)                                |
-| The process works, but it is painful              | [Where Is This Process Making Life Harder Than It Needs To?](process-improvement/35-where-is-this-process-making-life-harder-than-it-needs-to.md) |
+| I have an idea but not a plan | [Turn a Messy Idea Into a Real Plan](getting-started/01-turn-a-messy-idea-into-a-real-plan.md) |
+| Something feels incomplete | [What Are We Missing?](getting-started/02-what-are-we-missing.md) |
+| I inherited a technology I don't understand yet | [Learn Enough to Lead the Implementation](getting-started/03-learn-enough-to-lead-the-implementation.md) |
+| The intake is all over the place | [Make Sense of a Messy Intake](getting-started/04-make-sense-of-a-messy-intake.md) |
+| The timeline feels suspicious | [Can This Timeline Actually Work?](planning-and-decisions/06-can-this-timeline-actually-work.md) |
+| Ownership is fuzzy | [Who Owns What?](planning-and-decisions/08-who-owns-what.md) |
+| I need a useful risk review | [What Could Knock This Off Track?](planning-and-decisions/09-what-could-knock-this-off-track.md) |
+| I want to catch trouble earlier | [What Would We See Before It Goes Wrong?](planning-and-decisions/10-what-would-we-see-before-it-goes-wrong.md) |
+| The project is slipping | [This Project Is Going Sideways. Now What?](planning-and-decisions/12-this-project-is-going-sideways-now-what.md) |
+| We need to make a meaningful decision | [Does This Decision Actually Hold Up?](planning-and-decisions/13-does-this-decision-actually-hold-up.md) |
+| The requirements look questionable | [Find the Holes in These Requirements](requirements-and-uat/15-find-the-holes-in-these-requirements.md) |
+| We need realistic UAT | [Build UAT That Tests Real Life](requirements-and-uat/17-build-uat-that-tests-real-life.md) |
+| Test feedback is turning into a giant defect list | [Is This a Bug, a Training Problem, or Something Else?](requirements-and-uat/20-is-this-a-bug-a-training-problem-or-something-else.md) |
+| We're close to launch | [Are We Actually Ready to Launch?](launch-and-operations/22-are-we-actually-ready-to-launch.md) |
+| Launch could go badly | [What Happens If Launch Goes Bad?](launch-and-operations/24-what-happens-if-launch-goes-bad.md) |
+| We need a pilot that proves something | [What Does This Pilot Need to Prove?](launch-and-operations/26-what-does-this-pilot-need-to-prove.md) |
+| Users are struggling | [Is This Really a Training Problem?](training-and-adoption/31-is-this-really-a-training-problem.md) |
+| Adoption isn't happening | [Why Aren't People Using This the Way We Expected?](training-and-adoption/32-why-arent-people-using-this-the-way-we-expected.md) |
+| We're trying to hand this over to operations | [Can Operations Own This After We Leave?](launch-and-operations/27-can-operations-own-this-after-we-leave.md) |
+| Leadership needs an update | [Tell Leadership What They Actually Need to Know](leadership-and-communication/33-tell-leadership-what-they-actually-need-to-know.md) |
+| AI is being added to a workflow | [Where Does a Human Still Need to Be Involved?](responsible-ai/34-where-does-a-human-still-need-to-be-involved.md) |
+| The process works, but it is painful | [Where Is This Process Making Life Harder Than It Needs To?](process-improvement/35-where-is-this-process-making-life-harder-than-it-needs-to.md) |
 
 ## A few rules I use with all of these
 
@@ -99,11 +99,11 @@ Look beyond completed tasks and assess whether the technical, business, operatio
 
 Design a pilot around evidence and decision-making instead of simply putting the solution in front of a smaller group.
 
-### [Is This Really a Training Problem?](training-and-adoption/30-is-this-really-a-training-problem.md)
+### [Is This Really a Training Problem?](training-and-adoption/31-is-this-really-a-training-problem.md)
 
 Separate real knowledge gaps from usability, process, configuration, workload, support, or adoption problems.
 
-### [Can Operations Own This After We Leave?](launch-and-operations/32-can-operations-own-this-after-we-leave.md)
+### [Can Operations Own This After We Leave?](launch-and-operations/27-can-operations-own-this-after-we-leave.md)
 
 Check whether the receiving team can actually support and operate the solution without depending on the project team indefinitely.
 
@@ -150,15 +150,15 @@ Evaluate AI-enabled workflows based on consequence, reversibility, judgment, acc
 24. [What Happens If Launch Goes Bad?](launch-and-operations/24-what-happens-if-launch-goes-bad.md)
 25. [Plan the First Few Weeks After Go-Live](launch-and-operations/25-plan-the-first-few-weeks-after-go-live.md)
 26. [What Does This Pilot Need to Prove?](launch-and-operations/26-what-does-this-pilot-need-to-prove.md)
-32. [Can Operations Own This After We Leave?](launch-and-operations/32-can-operations-own-this-after-we-leave.md)
+27. [Can Operations Own This After We Leave?](launch-and-operations/27-can-operations-own-this-after-we-leave.md)
 
 ### Training and Adoption
 
-27. [What Do People Actually Need to Learn?](training-and-adoption/27-what-do-people-actually-need-to-learn.md)
-28. [Turn This SOP Into Training People Can Use](training-and-adoption/28-turn-this-sop-into-training-people-can-use.md)
-29. [Create Practice That Feels Like the Real Job](training-and-adoption/29-create-practice-that-feels-like-the-real-job.md)
-30. [Is This Really a Training Problem?](training-and-adoption/30-is-this-really-a-training-problem.md)
-31. [Why Aren't People Using This the Way We Expected?](training-and-adoption/31-why-arent-people-using-this-the-way-we-expected.md)
+28. [What Do People Actually Need to Learn?](training-and-adoption/28-what-do-people-actually-need-to-learn.md)
+29. [Turn This SOP Into Training People Can Use](training-and-adoption/29-turn-this-sop-into-training-people-can-use.md)
+30. [Create Practice That Feels Like the Real Job](training-and-adoption/30-create-practice-that-feels-like-the-real-job.md)
+31. [Is This Really a Training Problem?](training-and-adoption/31-is-this-really-a-training-problem.md)
+32. [Why Aren't People Using This the Way We Expected?](training-and-adoption/32-why-arent-people-using-this-the-way-we-expected.md)
 
 ### Leadership and Communication
 
@@ -181,4 +181,3 @@ The examples are intentionally generic. They are not descriptions of a specific 
 ## Related
 
 For more on AI decision rights, human oversight, and responsible adoption, see [Responsible AI Adoption](https://github.com/ohhmissmandy/responsible-ai-adoption).
-
